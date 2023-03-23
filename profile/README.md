@@ -2,5 +2,3 @@
 
 成员移步讨论区
 
-[![ghpvc](https://komarev.com/ghpvc/?username=IBLofCQU)](https://komarev.com/ghpvc/?username=IBLofCQU)
-
