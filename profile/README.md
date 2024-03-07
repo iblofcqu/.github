@@ -26,3 +26,7 @@
 ## [交流/问答板块](https://github.com/orgs/iblofcqu/discussions/categories/q-a)
 
 收集整理易出现&&新手难处理的问题和解决办法, 再酌情分类到, 特定板块下.
+
+## 线上
+
+- [《深度学习在建筑工程中的应用》](https://book001.readthedocs.io/zh/latest/)
